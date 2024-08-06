@@ -15,7 +15,7 @@ cal
 mv file.txt content.txt
 
 # 5. Displaying student grades (example placeholder)
-# Placeholder for displaying student grades
+# #Placeholder for displaying student grades
 
 # 6. Printing the manual page for a command
 man command_name
